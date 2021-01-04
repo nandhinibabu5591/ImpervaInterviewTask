@@ -1,0 +1,15 @@
+.attribute-name-class {
+    font-weight: bold;
+    color:slategray;
+    margin-bottom: 5px;
+    float: right;
+}
+
+.attribute-name-value {
+    overflow: hidden;
+    color:slategray;
+    text-overflow: ellipsis;
+    white-space: initial;
+    max-width: 100%;
+    float: center;
+}
